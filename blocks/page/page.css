@@ -1,0 +1,7 @@
+.page {
+  font-family: "KasperskySans", Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #1d1d1b;
+  min-width: 360px;
+}
